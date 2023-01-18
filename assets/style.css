@@ -10,10 +10,6 @@ body {
     overflow: hidden;
     border-bottom: 2px solid rgb(34, 33, 33);
 }
-
-#home {
-    float:left !important;
-}
   
 .navBar a {
     float: right;
@@ -44,7 +40,6 @@ body {
 }
 
 .footer {
-    position: fixed;
     width: 100%;
     height: 50px;
     text-align: center;
